@@ -1,0 +1,28 @@
+{
+    "firstName": "Peter",
+    "lastName": "Smith",
+    "workFromHome": false,
+    "age": 35,
+    "address":{
+        "streetAddress": "920 SAS Campus Drive",
+        "city": "Cary",
+        "state": "NC",
+        "postalCode":"27513"
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+             "number": "919-555-5555"
+        },
+        {
+            "type": "office",
+            "number": "919-555-0000"
+        }
+        ],
+    "children": [
+        "Owen",
+        "Eva"
+    ],
+    "spouse": true,
+    "hireDate":"06/01/2020"
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "firstName": "Peter",
+        "lastName": "Smith",
+        "workFromHome": false,
+        "age": 35,
+        "address":{
+            "streetAddress": "920 SAS Campus Drive",
+            "city": "Cary",
+            "state": "NC",
+            "postalCode":"27513"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "919-555-5555"
+            },
+            {
+                "type": "office",
+                "number": "919-555-0000"
+            }
+        ],
+        "children": [
+            "Owen",
+            "Eva"
+        ],
+        "spouse": true,
+        "hireDate":"06/01/2020"
+    },
+    {
+        "firstName": "Fatima",
+        "lastName": "Patel",
+        "workFromHome": true,
+        "age": 28,
+        "address":{
+            "streetAddress": "100 SAS Campus Drive",
+            "city": "Cary",
+            "state": "NC",
+            "postalCode":"27513"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "919-555-8898"
+            }
+        ],
+        "children": [
+            "Muhammad"
+        ],
+        "spouse": true,
+        "hireDate":"11/01/2018"
+    },
+    {
+        "firstName": "Apollo",
+        "lastName": "Papadopoulos",
+        "workFromHome": true,
+        "age": 45,
+        "address":{
+            "streetAddress": "300 SAS Campus Drive",
+            "city": "Cary",
+            "state": "NC",
+            "postalCode":"27513"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "919-555-1234"
+            },
+            {
+                "type": "office",
+                "number": "919-555-4444"
+            },
+            {
+                "type": "mobile",
+                "number": "919-555-7900"
+            }
+        ],
+        
+        "spouse": true,
+        "hireDate":"03/01/2016"
+    }
+]
