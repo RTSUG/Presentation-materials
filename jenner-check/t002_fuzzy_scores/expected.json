@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-13T03:35:30Z",
+  "_captured_run_id": "r_069339c7af2f4262b0ac1f0f23c00784",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote work.customers (40 rows, 10 columns).",
+    "NOTE: Wrote work.CatLovers (22 rows, 6 columns).",
+    "NOTE: Table fuzzy_scores created.",
+    "NOTE: PROC PRINT completed: 14 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

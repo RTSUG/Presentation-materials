@@ -1,0 +1,48 @@
+  Obs  Prospect ID Number            ProspectName          SSN         City  State                                      Occupation
+-----  ------------------  ----------------------  -----------  -----------  -----  ----------------------------------------------
+    1        000100000001  Thomas, Catherine M.    419-09-4528  Guin         AL     Heating air-conditioning and refrigeration mec
+    2        000100000002  von Neumann, János L.   418-11-8992  Huntsville   AL     Farm equipment mechanic
+    3        000100000003  Tennyson, Sam C.        676-03-9761  Donaldson    AR     Land agent
+    4        000100000004  Curry, Kristi R.        430-80-7432  Little Rock  AR     Industrial property manager
+    5        000100000005  Smith, Wanda R.         678-01-4992  Pine Bluff   AR     Insurance sales agent
+    6        000100000006  Hoadley, James R.R.     617-25-6316  Concord      CA     Marine electronics technician
+    7        000100000007  Wenzel, Calvin B.       608-24-5955  Dublin       CA     Medical social worker
+    8        000100000008  Ryan, Jennifer R.       554-39-5579  Fremont      CA     Diabetes management nurse
+
+... 92 more observations (showing 8 of 100)
+
+                                                   Prospects by State                                                   
+
+                                                   The FREQ Procedure
+
+State    Frequency    Percent
+------------------------------
+AL               3      3.00
+AR               4      4.00
+CA              22     22.00
+CO               1      1.00
+FL               8      8.00
+GA               3      3.00
+IA               1      1.00
+IL               3      3.00
+IN               2      2.00
+KY               1      1.00
+MA               2      2.00
+ME               1      1.00
+MI               4      4.00
+MO               4      4.00
+MS               3      3.00
+NC               2      2.00
+NJ               1      1.00
+NM               1      1.00
+NV               1      1.00
+NY               5      5.00
+OH               4      4.00
+OK               1      1.00
+PA               5      5.00
+SC               4      4.00
+TN               1      1.00
+TX               8      8.00
+VA               1      1.00
+WA               2      2.00
+WI               2      2.00

@@ -1,0 +1,20 @@
+                               Fuzzy-match scores (SOUNDEX / SPEDIS / COMPLEV / COMPGED)                                
+
+
+SubscriberID             Name            customer  soundexcode  spedisscore  complevscore  compgedscore
+------------  ---------------  ------------------  -----------  -----------  ------------  ------------
+    10010127  JENNIFER RYAN    Jennifer Ryan       J516, R500             0            10           500
+    10010188  ANNA CHRISTIAN   Anna Christian      A500, C623             0            11           500
+    10010305  MICHEAL TILLMAN  Micheal Tillman     M240, T450             0            12           500
+    10010615  MICHEAL KAUFMAN  Michael Kaufman     M240, K150             7            12           500
+    12126889  MICKEY KAUFMAN   Michael Kaufman     M200, K150            41            12           500
+    10010060  CHRISTY CURRY    Kristiana Curry     C623, C600            46            13           500
+    10010532  JIM CARPENTER    James Carpenter     J500, C615            66            12           500
+    10010469  BOB KELLEY       Robert Kelley       B100, K400            75            11           500
+    10010264  PEGGY ROBINSON   Margaret Robinson   P200, R152            95            15           500
+    10010399  CAT SNELLING     Katherine Snelling  C300, S545           125            16           500
+    10010678  PEGGY O'KEEFE    Marjorie Okeef      P200, O210           129            14           500
+    10010831  ABRAHAM SHORT    Margaret Robinson   A165, S630           155            16           500
+    10010732  RONALD BABCOCK   Kristiana Curry     R543, B120           166            16           500
+    10010532  JIM CARPENTER    Yolanda Hersh       J500, C615           187            16           500
+

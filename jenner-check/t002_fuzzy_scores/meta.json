@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_fuzzy_scores",
+  "source_file": "Fuzzy_matching_in_SAS/demos/Fuzzy Matching - 2 - SOUNDEX.sas",
+  "source_blob_sha": "5e1dca080a67911372fd961f8b522db5de7fa996",
+  "source_commit": "b3c45f20b6508315d2d067eb5e4669d68f0b017a",
+  "notes": "Fuzzy scoring using the exact SOUNDEX/SPEDIS/COMPLEV/COMPGED expressions from the Fuzzy_matching_in_SAS demos, over the repo's customers+catlovers demo data (create_customers_catlovers.sas, libname catyums -> WORK). Single self-contained PROC SQL; join on city/state or zip; sorted by SPEDIS. 14 scored pairs. Deterministic."
+}
