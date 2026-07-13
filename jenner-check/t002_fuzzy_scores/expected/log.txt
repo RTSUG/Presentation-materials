@@ -1,0 +1,27 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA work.customers
+
+NOTE: Processing inline DATALINES (40 lines)
+
+NOTE: Read 40 rows from DATALINES.
+NOTE: Wrote work.customers (40 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA work.CatLovers
+
+NOTE: Processing inline DATALINES (22 lines)
+
+NOTE: Read 22 rows from DATALINES.
+NOTE: Wrote work.CatLovers (22 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table fuzzy_scores created.
+NOTE: PROC SQL statement used.
+NOTE: Option TITLE changed to Fuzzy-match scores (SOUNDEX / SPEDIS / COMPLEV / COMPGED).
+NOTE: PROC PRINT data=fuzzy_scores
+
+NOTE: PROC PRINT completed: 14 observations printed, 7 variables

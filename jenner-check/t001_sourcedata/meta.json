@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_sourcedata",
+  "source_file": "Fuzzy_matching_in_SAS/data/supporting_code/create_source_and_prospects.sas",
+  "source_blob_sha": "3b275ca20debd61c72a2c5c67b6d9060baa42e81",
+  "source_commit": "b3c45f20b6508315d2d067eb5e4669d68f0b017a",
+  "notes": "SourceData DATA step from create_source_and_prospects.sas (first step only). Only change: libname catyums -> WORK so it runs standalone. Pipe-delimited datalines; computed ProspectName (catx) and SSN (input+compress with 'kd' modifier); formats/labels/drop preserved. Followed by PROC PRINT (8 obs) and PROC FREQ by State. Deterministic; second step (Prospects/NotProspects) omitted as it uses rand() and dqstandardize."
+}
